@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "153425558243",
+    "project_id": "paycash-b3e56",
+    "storage_bucket": "paycash-b3e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153425558243:android:532594ed18ba935dc7a3d6",
+        "android_client_info": {
+          "package_name": "com.beingcoderz.paycashrewarded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153425558243-ed3l93leh2odvpk1k8ci7nkc1uslqp21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beingcoderz.paycashrewarded",
+            "certificate_hash": "9a35552d13a60abf1fa97bc09ddaa14d4d2cc048"
+          }
+        },
+        {
+          "client_id": "153425558243-poh3810huabcp8v530jslurgnv00otdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlfHKhVnDCUXO_XRR48IaSaZ5Krza4unM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153425558243-poh3810huabcp8v530jslurgnv00otdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153425558243:android:e3ba4fc186b46b7ac7a3d6",
+        "android_client_info": {
+          "package_name": "com.bidyarthibymmmcschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153425558243-poh3810huabcp8v530jslurgnv00otdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlfHKhVnDCUXO_XRR48IaSaZ5Krza4unM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153425558243-poh3810huabcp8v530jslurgnv00otdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

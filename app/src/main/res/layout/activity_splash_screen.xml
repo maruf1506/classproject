@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splashscreenbackground"
+    tools:context="com.bidyarthibymmmcschool.Ui.SplashScreen">
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:id="@+id/logo"
+        android:layout_centerInParent="true"
+        android:src="@drawable/splash_screen_logo1"
+        app:civ_border_color="#FFEB3B"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/appName"
+        android:layout_below="@+id/logo"
+        android:text="Bidyarthi"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:textColor="@color/black"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/powerdby"
+        android:layout_alignParentBottom="true"
+        android:text="|| শ্রদ্ধাবান্ লভতে জ্ঞানম্ ||"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="58dp"
+        android:textColor="@color/black"
+        />
+
+
+
+
+
+</RelativeLayout>
